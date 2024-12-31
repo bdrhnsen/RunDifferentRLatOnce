@@ -1,3 +1,6 @@
+EDIT: 
+I realize that SB3-Rl-Zoo does this already. You can also refer to that https://rl-baselines3-zoo.readthedocs.io/en/master/guide/quickstart.html 
+
 # Run Multiple RL algorithms from stablebaselines3 at once 
 
 This will become handy if you do not know which will be a better choice for your environment. With argument parsing and a little bit bash scripting one can achieve this easily
